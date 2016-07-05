@@ -23,6 +23,7 @@ To create the tournament database and tables:
 `>>> \q` exit Psql interactive
 
 
+Note: This is an implementation of the Monrad version of the swiss pairing rather than the more widely used 'Dutch system' or the original swiss pairing 
 
 ### Usage
 
